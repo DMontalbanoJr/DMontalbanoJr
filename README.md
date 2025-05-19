@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a data analytics professional, specializing in dashboard development. This is my GitHub and over time, I plan to use this as a place to keep the various projects and snippets of code I am using to learn.
 <!--
 **DMontalbanoJr/DMontalbanoJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
